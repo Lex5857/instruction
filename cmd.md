@@ -19,5 +19,10 @@ ls
 ```
 Удаление файла:
 1. Windows:
-
+```sh
+del <filename>
+```
 2. Linux, MacOs:
+```sh
+rm <filename>
+```
