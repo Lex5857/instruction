@@ -47,7 +47,7 @@ git diff ID_commit ID_commit
 ## Создание новой ветки
 ```sh
 git branch branchname
-
+```
 ## Переход на другую ветку
 ```sh
 git checkout branchname
