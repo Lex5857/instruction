@@ -65,6 +65,7 @@ git log --graph
 Краткое отображение:
 ```sh
 git log --oneline --graph
+git log --oneline --graph --all
 ```
 ## Слияние веток с master
 
